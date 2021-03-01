@@ -1,0 +1,2 @@
+(this["webpackJsonpssr-recipe"]=this["webpackJsonpssr-recipe"]||[]).push([[5],{72:function(e,s,r){"use strict";r.r(s);r(0);var c=r(10),n=r(2);s.default=function(e){var s=e.users;return s?Object(n.jsx)("div",{children:Object(n.jsx)("ul",{children:s.map((function(e){return Object(n.jsx)("li",{children:Object(n.jsx)(c.b,{to:"/users/".concat(e.id),children:e.username})},e.id)}))})}):null}}}]);
+//# sourceMappingURL=5.09dcf99d.chunk.js.map

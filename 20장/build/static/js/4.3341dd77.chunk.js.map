@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/Red.js"],"names":["Red","className"],"mappings":"oIAAA,6BAOeA,UAJH,WACV,OAAO,qBAAKC,UAAU,MAAf","file":"static/js/4.3341dd77.chunk.js","sourcesContent":["import React from 'react';\r\nimport './Red.css';\r\n\r\nconst Red = () => {\r\n  return <div className=\"Red\">Red</div>;\r\n};\r\n\r\nexport default Red;\r\n"],"sourceRoot":""}

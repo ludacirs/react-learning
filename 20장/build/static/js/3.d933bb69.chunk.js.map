@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/Blue.js"],"names":["Blue","className"],"mappings":"oIAAA,6BAOeA,UAJF,WACX,OAAO,qBAAKC,UAAU,OAAf","file":"static/js/3.d933bb69.chunk.js","sourcesContent":["import React from 'react';\r\nimport './Blue.css';\r\n\r\nconst Blue = () => {\r\n  return <div className=\"Blue\">Blue</div>;\r\n};\r\n\r\nexport default Blue;\r\n"],"sourceRoot":""}

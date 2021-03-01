@@ -1,0 +1,1 @@
+exports.ids=[1],exports.modules={17:function(e,s,t){"use strict";t.r(s);t(3);var r=t(0);s.default=function(){return Object(r.jsx)("div",{className:"Blue",children:"Blue"})}}};

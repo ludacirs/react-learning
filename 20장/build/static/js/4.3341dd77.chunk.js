@@ -1,0 +1,2 @@
+(this["webpackJsonpssr-recipe"]=this["webpackJsonpssr-recipe"]||[]).push([[4],{68:function(e,s,c){},70:function(e,s,c){"use strict";c.r(s);c(0),c(68);var i=c(2);s.default=function(){return Object(i.jsx)("div",{className:"Red",children:"Red"})}}}]);
+//# sourceMappingURL=4.3341dd77.chunk.js.map

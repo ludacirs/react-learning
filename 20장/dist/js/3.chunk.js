@@ -1,0 +1,1 @@
+exports.ids=[3],exports.modules={15:function(e,r,n){"use strict";n.r(r);n(3);var t=n(1),s=n(0);r.default=function(e){var r=e.users;return r?Object(s.jsx)("div",{children:Object(s.jsx)("ul",{children:r.map((function(e){return Object(s.jsx)("li",{children:Object(s.jsx)(t.Link,{to:"/users/".concat(e.id),children:e.username})},e.id)}))})}):null}}};
